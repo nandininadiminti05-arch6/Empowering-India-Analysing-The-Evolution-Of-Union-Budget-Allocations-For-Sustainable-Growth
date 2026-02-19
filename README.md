@@ -1,7 +1,9 @@
 # Empowering-India-Analysing-The-Evolution-Of-Union-Budget-Allocations-For-Sustainable-Growth
 India's Union Budget is a comprehensive financial plan presented annually by the Government of India, outlining its revenue and expenditure for the upcoming fiscal year. The fiscal year typically runs from April 1st to March 31st.
 Empowering-India-Analysing-the-Evolution-of-Union-Budget-Allocations-for-Sustainable-Growth
-Empowering India: Analysing the Evolution of Union Budget Allocations for Sustainable Growth 📊 Project Overview
+Empowering India: Analysing the Evolution of Union Budget Allocations for Sustainable Growth 
+
+📊 Project Overview
 
 This project focuses on analysing the evolution of India’s Union Budget allocations over recent years to understand how government spending supports sustainable growth. The dashboard visualizes budget estimates across categories, ministries, departments, and schemes, helping identify investment priorities and policy trends.
 
